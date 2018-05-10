@@ -51,6 +51,6 @@
     "fulfills": "^1.0.0",
     "github-publish": "^3.0.0",
     "js-yaml": "^3.6.1",
-    "micropub-express": "^0.7.1"
+    "micropub-express": "git://github.com/grantcodes/node-micropub-express.git"
   }
 }
